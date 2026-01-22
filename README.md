@@ -8,12 +8,12 @@ This project is deployed using **GitHub Pages** and can be viewed live in the br
 
 ## 📁 Project Structure
 
-'''
+```
 Frontend-Learning/
 ├── index.html
 ├── style.css
 └── README.md
-'''
+```
 ---
 
 ## 🌐 Live Demo
