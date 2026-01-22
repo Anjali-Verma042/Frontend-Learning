@@ -1,34 +1,65 @@
 # Frontend-Learning
 
-A small frontend practice project (simple portfolio) built with HTML and CSS.
+A simple frontend practice project (personal portfolio) built using HTML and CSS.
 
-## Project structure
-```
-simple-portfolio/
+This project is deployed using **GitHub Pages** and can be viewed live in the browser.
+
+---
+
+## 📁 Project Structure
+'''
+Frontend-Learning/
 ├── index.html
 ├── style.css
 └── README.md
-```
+'''
 
-## Demo / Preview
-Open `index.html` in your browser to view the portfolio. (You can also host it on GitHub Pages for a live demo.)
+---
 
-## Technologies
-- HTML
-- CSS
+## 🌐 Live Demo
 
-## How to run locally
-1. Clone the repo:
-   ```
-   git clone https://github.com/Anjali-Verma042/Frontend-Learning.git
-   ```
-2. Open `simple-portfolio/index.html` in your browser.
+🔗 **Live Portfolio:**  
+https://anjali-verma042.github.io/Frontend-Learning/
 
-## Suggestions / Next steps
-- Add a screenshot or GIF in this README for a quick preview.
-- Mention any fonts, icons, or external resources used.
-- Add a short "Features" section listing components (e.g., responsive layout, contact form placeholder).
-- Consider adding a LICENSE file if you want to specify reuse terms.
+---
 
-## Author
-Anjali Verma
+## 🛠 Technologies Used
+
+- HTML5
+- CSS3
+
+---
+
+## ▶ How to Run Locally
+
+1. Clone the repository:
+git clone https://github.com/Anjali-Verma042/Frontend-Learning.git
+2. Open `index.html` in any web browser.
+
+---
+
+## ✨ Features
+
+- Simple and clean layout
+- Header section with name
+- About Me section
+- Skills section
+- Contact information
+- Beginner-friendly code structure
+
+---
+
+## 🚀 Future Improvements
+
+- Make the portfolio responsive
+- Add projects section
+- Add resume download button
+- Improve UI with animations
+- Add JavaScript for interactivity
+
+---
+
+## 👩‍💻 Author
+
+**Anjali Verma**  
+Frontend Learner 🌱
